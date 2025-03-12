@@ -1,6 +1,6 @@
 # 自我介绍
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jy-EggRoll&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jy-EggRoll&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67a6df68f863343482c45936?variant=dark)](https://roadmap.sh)
 
