@@ -5,6 +5,6 @@
 - 🔗 个人博客：<https://eggroll.pages.dev> | Portfolio: <https://eggroll.pages.dev>
 - 📫 联系我：<JyEggRoll@outlook.com> | Contact me: <JyEggRoll@outlook.com>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
