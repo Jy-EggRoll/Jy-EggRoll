@@ -1,4 +1,4 @@
-<h1 aligh="center">关于我 | About Me</h1>
+<h1 align="center">关于我 | About Me</h1>
 
 - 👋 大三，数据科学专业 | Sophomore, Data Science & Big Data
 - 🌱 喜欢前端开发，兼修多种技术 | Focus: Frontend Development | Learning ALL
