@@ -5,6 +5,6 @@
 - 🔗 个人博客：<https://eggroll.pages.dev> | Portfolio: <https://eggroll.pages.dev>
 - 📫 联系我：<JyEggRoll@outlook.com> | Contact me: <JyEggRoll@outlook.com>
 
-![](https://github-readme-stats.vercel.app/api?username=jy-eggroll&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=jy-eggroll&show_icons=true)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jy-eggroll)](https://github.com/anuraghazra/github-readme-stats)
