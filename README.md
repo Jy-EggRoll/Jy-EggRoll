@@ -7,4 +7,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jy-eggroll&show_icons=true)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jy-eggroll&hide=html,css,jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jy-eggroll&hide=html,css,jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
