@@ -5,8 +5,5 @@
 - 🔗 个人博客：<https://eggroll.pages.dev> | Blog: <https://eggroll.pages.dev>
 - 📫 联系我：<JyEggRoll@outlook.com> | Contact me: <JyEggRoll@outlook.com>
 
-![](https://github-readme-stats.vercel.app/api?username=jy-eggroll&show_icons=true)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jy-eggroll&&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67a6df68f863343482c45936?variant=light&roadmaps=frontend%2Cgit-github%2Cjavascript%2Cpython)](https://roadmap.sh)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
