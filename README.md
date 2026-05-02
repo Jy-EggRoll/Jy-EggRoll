@@ -5,7 +5,7 @@
 - 🔗 个人博客：<https://eggroll.pages.dev> | Blog: <https://eggroll.pages.dev>
 - 📫 联系我：<JyEggRoll@outlook.com> | Contact me: <JyEggRoll@outlook.com>
 
-![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Jy-EggRoll/my-github-stats/generated/languages.svg#gh-light-mode-only)
